@@ -1,2 +1,2 @@
 # githubactions-codespace
-Lab: CI/CD with GitHub Actions
+Lab 2: CI/CD with GitHub Actions
